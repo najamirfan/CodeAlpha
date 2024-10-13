@@ -11,7 +11,8 @@ grades of each course, calculate total credits and total grade
 points achieved, determine the GPA for the semester, and
 based on all the data, it can generate and present the CGPA
 of the student.
-task1 CGPA_CAL.cpp
+task1 CGPA_CAL.cp
+https://github.com/najamirfan/CodeApha/blob/main/task1%20CGPA_CAL.cpp
 
          Login and Registration System
 The login And Registration System project in
