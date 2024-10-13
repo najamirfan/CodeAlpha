@@ -23,6 +23,7 @@ registration of the user is successful then with
 the given credentials a file will be created of a
 particular user in the database.
 NOTE: here I'm just using txt file for reading and writing the data, I am not using any DATABASE
+https://github.com/najamirfan/CodeApha/blob/main/task2%20LOGIN_REG.cpp
 
             Banking System
 A C++ project is designed with an object-oriented
@@ -34,4 +35,4 @@ such as withdrawals, deposits, and transfers. It also
 allows customers to view their account information,
 including account balances, recent transactions, and
 other details.
-            
+https://github.com/najamirfan/CodeApha/blob/main/task4%20bankmenagment.cpp            
